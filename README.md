@@ -9,10 +9,15 @@ well-being of their populations.
 In this project, some techniques I use include:
 
  Data Wrangling using Pandas
+ 
  Initial Feature Selection using Pearson Correlation 
+ 
  Data Normalization/Standardization 
+ 
  Multivariate Data Imputation using K Nearest Neighbor Imputation, Iterative Imputation and Linear Time Interpolation
+ 
  Multivariate Time Series Forecasting using 1D CNNs, RNNs (LSTMs), and ARIMA
+ 
  Predictive modelling using Regression Analysis (KNeighbors, Linear, Logistic) Decision Trees/Random Forests
 
  
