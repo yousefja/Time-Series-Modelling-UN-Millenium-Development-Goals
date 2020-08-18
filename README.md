@@ -19,5 +19,14 @@ In this project, some techniques I use include:
  - Multivariate Time Series Forecasting using 1D CNNs, RNNs (LSTMs), and ARIMA
  
  - Predictive modelling using Regression Analysis (KNeighbors, Linear, Logistic) Decision Trees/Random Forests
+ 
+ Some thoughts on this project:
+ 
+ In an ideal scenario, I'd have a more  complete dataset. That way, if I measured the correlation among the same set of  variables for each country independently, 
+I'd be able to say wether the same corr's exist independent of the country. Only then could I really say that a model can be built  which can predict outcomes from the same
+set of variables for any given country. If they don't match up, I believe this would mean that the variables are not enough to explain development, or rather that development 
+can not be generally explained by a set of variables. It can, however, adequately enough describe the system of national dev that it can be used within a certain level of 
+confidence to classify, predict, etc.
+
 
  
